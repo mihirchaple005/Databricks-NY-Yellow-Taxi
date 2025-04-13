@@ -1,6 +1,3 @@
-Here’s the **improved README.md** with a stronger emphasis on **data cleaning (null imputation), ETL pipeline depth, and DWM (Data Warehousing & Mining) architecture**:
-
----
 
 # **New York Yellow Taxi Data Analysis with Databricks**  
 ### **Data Warehousing & Mining (DWM) Project | 6th Sem CSE**  
